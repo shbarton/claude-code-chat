@@ -11,6 +11,15 @@ This skill teaches Claude how to:
 4. Export or save the report as a PDF
 5. Commit the result to your repository
 
+## Quick Start
+
+**First time setup?** See [SETUP_GUIDE.md](./SETUP_GUIDE.md) for detailed step-by-step instructions on getting ChatGPT login working with Playwright.
+
+**TL;DR:**
+1. Launch Playwright MCP with `--save-session`
+2. First run: manually log into ChatGPT in the browser that opens
+3. Session persists automatically for all future runs!
+
 ## Prerequisites
 
 ### 1. Enable Skills in Claude
